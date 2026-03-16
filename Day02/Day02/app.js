@@ -5,7 +5,7 @@ const element = React.createElement(
     className: "Rahul",
     style: { backgroundColor: "blue", fontSize: "30px", color: "pink" },
   },
-  "Hello Coder Army",
+  "Hello Coder",
 );
 const element2 = React.createElement(
   "h2",
